@@ -47,8 +47,6 @@ A full-stack Restaurant Reservation System built using the MERN Stack. Customers
 # Setup Instructions
 
 
-# Setup Instructions
-
 ### 1. Clone the Repository
 
 ```bash
